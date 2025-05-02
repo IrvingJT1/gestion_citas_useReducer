@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/gestion_citas_hook/",
+  base: "/gestion_citas_useReducer/",
   plugins: [
     react(),
     tailwindcss(),
